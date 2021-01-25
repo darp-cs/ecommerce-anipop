@@ -1,11 +1,15 @@
 import React from 'react';
 import Funko from './Funko/Funko'
 import classes from './Funkos.module.css'
+import LtH from '../Filter/LowtoHigh/LowtoHigh'
+import HtL from '../Filter/HightoLow/HightoLow';
 
 
 
 const funkos = (props) => {
 
+    LtH(props);
+    
     const allProducts = props.funko
     .map(funko => {
         return(
@@ -15,6 +19,7 @@ const funkos = (props) => {
         Price = {funko.price}
         key = {funko.id}
         Source = {funko.source}
+        filter = {1}
         />
         )
         

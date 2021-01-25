@@ -8,19 +8,32 @@ class Products extends Component{
 
     
     state = {
-       merch : database.merch
+       merch : database.merch,
+       filter: null
     }
 
-    
+    filterHandler = (type) =>{
+        switch(type){
+            case '1' :
+                this.setState({filter: 1})
+                break;
+            case '2':
+                this.setState({filter: 2})
+                break;
+            default:
+                break;
+
+        }
+    }
 
     render(){
 
         return(
             <Auxiliary>
                 <div className = {classes.ProductsGrid}>
-                <div className = {classes.Filter}>Filter</div>
-                <Funkos funko ={this.state.merch}/>
-                <div  className = {classes.ItemSummary}>Item Summary</div>
+                    <div click ={this.filterHandler} className = {classes.Filter}>Filter</div>
+                    <Funkos filter = {this.filter} funko ={this.state.merch}/>
+                    <div  className = {classes.ItemSummary}>Item Summary</div>
                 </div>
             </Auxiliary>
         )

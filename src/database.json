@@ -1,20 +1,20 @@
 {"merch" : [
     {
-        "name": "Diego",
+        "name": "Natsu",
         "price": 10,
-        "description": "Big Brain MF",
+        "description": "Fairy Tail",
         "id":1,
         "source": "https://images-na.ssl-images-amazon.com/images/I/41aT5jdUiNL._AC_SY450_.jpg"
     },
     {
-        "name": "Diego",
+        "name": "Goku with Kamehameha",
         "price": 10,
-        "description": "Big Brain MF",
+        "description": "Dragon Ball Z",
         "id":2,
-        "source": "https://images-na.ssl-images-amazon.com/images/I/41aT5jdUiNL._AC_SY450_.jpg"
+        "source": "https://cdn.shopify.com/s/files/1/0882/5118/products/FUNKO-Pop-Animation-Dragonball-Z-Super-Saiyan-Goku-2018003_1024x1024.jpeg?v=1436561311"
     },
     {
-        "name": "Diego",
+        "name": "Frieza",
         "price": 10,
         "description": "Big Brain MF",
         "id":3,
