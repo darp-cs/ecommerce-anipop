@@ -3,6 +3,7 @@ import Funkos from '../../../components/Funkos/Funkos'
 import classes from './Products.module.css'
 import database from '../../../components/External/External'
 import Auxiliary from '../../../hoc/Auxiliary/Auxiliary'
+import Filter from '../../../components/Filter/Filter'
 
 class Products extends Component{
 
@@ -14,16 +15,20 @@ class Products extends Component{
 
     filterHandler = (type) =>{
         switch(type){
+            case '0':
+                this.setState({filter:'0'})
+                break;
             case '1' :
-                this.setState({filter: 1})
+                this.setState({filter: '1'})
                 break;
             case '2':
-                this.setState({filter: 2})
+                this.setState({filter: '2'})
                 break;
             default:
                 break;
-
         }
+
+        
     }
 
     render(){
@@ -31,8 +36,8 @@ class Products extends Component{
         return(
             <Auxiliary>
                 <div className = {classes.ProductsGrid}>
-                    <div click ={this.filterHandler} className = {classes.Filter}>Filter</div>
-                    <Funkos filter = {this.filter} funko ={this.state.merch}/>
+                    <Filter change ={this.filterHandler} className = {classes.Filter}/>
+                    <Funkos filter = {this.state.filter} funko ={this.state.merch}/>
                     <div  className = {classes.ItemSummary}>Item Summary</div>
                 </div>
             </Auxiliary>

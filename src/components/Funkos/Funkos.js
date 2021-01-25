@@ -8,7 +8,17 @@ import HtL from '../Filter/HightoLow/HightoLow';
 
 const funkos = (props) => {
 
-    LtH(props);
+    switch(props.filter){
+        case '1':
+            LtH(props)
+            break;
+        case '2':
+            HtL(props)
+            break;
+        default:
+            break;
+    }
+
     
     const allProducts = props.funko
     .map(funko => {
