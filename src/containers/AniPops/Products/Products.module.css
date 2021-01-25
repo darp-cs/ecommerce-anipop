@@ -1,0 +1,12 @@
+.ProductsGrid{
+    display:grid;
+    grid-template-columns: repeat(3, 1fr)
+}
+
+.Filter{
+    font-size: 50px;
+}
+
+.ItemSummary{
+    font-size: 50px;
+}

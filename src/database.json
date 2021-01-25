@@ -1,0 +1,89 @@
+{"merch" : [
+    {
+        "name": "Diego",
+        "price": 10,
+        "description": "Big Brain MF",
+        "id":1,
+        "source": "https://images-na.ssl-images-amazon.com/images/I/41aT5jdUiNL._AC_SY450_.jpg"
+    },
+    {
+        "name": "Diego",
+        "price": 10,
+        "description": "Big Brain MF",
+        "id":2,
+        "source": "https://images-na.ssl-images-amazon.com/images/I/41aT5jdUiNL._AC_SY450_.jpg"
+    },
+    {
+        "name": "Diego",
+        "price": 10,
+        "description": "Big Brain MF",
+        "id":3,
+        "source": "https://images-na.ssl-images-amazon.com/images/I/41aT5jdUiNL._AC_SY450_.jpg"
+    },
+    {
+        "name": "Diego",
+        "price": 10,
+        "description": "Big Brain MF",
+        "id":4,
+        "source": "https://images-na.ssl-images-amazon.com/images/I/41aT5jdUiNL._AC_SY450_.jpg"
+    },
+    {
+        "name": "Diego",
+        "price": 10,
+        "description": "Big Brain MF",
+        "id":5,
+        "source": "https://images-na.ssl-images-amazon.com/images/I/41aT5jdUiNL._AC_SY450_.jpg"
+    },
+    {
+        "name": "Diego",
+        "price": 10,
+        "description": "Big Brain MF",
+        "id":6,
+        "source": "https://images-na.ssl-images-amazon.com/images/I/41aT5jdUiNL._AC_SY450_.jpg"
+    },
+    {
+        "name": "Diego",
+        "price": 10,
+        "description": "Big Brain MF",
+        "id":7,
+        "source": "https://images-na.ssl-images-amazon.com/images/I/41aT5jdUiNL._AC_SY450_.jpg"
+    },
+    {
+        "name": "Diego",
+        "price": 10,
+        "description": "Big Brain MF",
+        "id":8,
+        "source": "https://images-na.ssl-images-amazon.com/images/I/41aT5jdUiNL._AC_SY450_.jpg"
+    },
+    {
+        "name": "Diego",
+        "price": 10,
+        "description": "Big Brain MF",
+        "id":9,
+        "source": "https://images-na.ssl-images-amazon.com/images/I/41aT5jdUiNL._AC_SY450_.jpg"
+    },
+    {
+        "name": "Diego",
+        "price": 10,
+        "description": "Big Brain MF",
+        "id":10,
+        "source": "https://images-na.ssl-images-amazon.com/images/I/41aT5jdUiNL._AC_SY450_.jpg"
+    },
+    {
+        "name": "Diego",
+        "price": 10,
+        "description": "Big Brain MF",
+        "id":11,
+        "source": "https://images-na.ssl-images-amazon.com/images/I/41aT5jdUiNL._AC_SY450_.jpg"
+    },
+    {
+    "name": "Diego",
+    "price": 10,
+    "description": "Big Brain MF",
+    "id":12,
+    "source": "https://images-na.ssl-images-amazon.com/images/I/41aT5jdUiNL._AC_SY450_.jpg"
+}
+
+]
+
+ }
