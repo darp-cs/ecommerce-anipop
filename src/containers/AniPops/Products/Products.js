@@ -24,6 +24,15 @@ class Products extends Component{
             case '2':
                 this.setState({filter: '2'})
                 break;
+            case 'Dragon Ball':
+                this.setState({filter:'Dragon Ball'})
+                break;
+            case 'Naruto Shippuden':
+                this.setState({filter:'Naruto Shippuden'})
+                break;
+            case 'Attack On Titan':
+                this.setState({filter:'Attack On Titan'})
+                break;
             default:
                 break;
         }

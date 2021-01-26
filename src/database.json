@@ -2,84 +2,84 @@
     {
         "name": "Natsu",
         "price": 10,
-        "description": "Fairy Tail",
+        "anime": "Dragon Ball",
         "id":1,
         "source": "https://images-na.ssl-images-amazon.com/images/I/41aT5jdUiNL._AC_SY450_.jpg"
     },
     {
         "name": "Goku with Kamehameha",
         "price": 9,
-        "description": "Dragon Ball Z",
+        "anime": "Dragon Ball",
         "id":2,
         "source": "https://cdn.shopify.com/s/files/1/0882/5118/products/FUNKO-Pop-Animation-Dragonball-Z-Super-Saiyan-Goku-2018003_1024x1024.jpeg?v=1436561311"
     },
     {
         "name": "Frieza",
         "price": 10,
-        "description": "Big Brain MF",
+        "anime": "Dragon Ball",
         "id":3,
         "source": "https://images-na.ssl-images-amazon.com/images/I/41aT5jdUiNL._AC_SY450_.jpg"
     },
     {
         "name": "Diego",
         "price": 10,
-        "description": "Big Brain MF",
+        "anime": "Dragon Ball",
         "id":4,
         "source": "https://images-na.ssl-images-amazon.com/images/I/41aT5jdUiNL._AC_SY450_.jpg"
     },
     {
         "name": "Diego",
         "price": 10,
-        "description": "Big Brain MF",
+        "anime": "Naruto Shippuden",
         "id":5,
         "source": "https://images-na.ssl-images-amazon.com/images/I/41aT5jdUiNL._AC_SY450_.jpg"
     },
     {
         "name": "Diego",
         "price": 10,
-        "description": "Big Brain MF",
+        "anime": "Naruto Shippuden",
         "id":6,
         "source": "https://images-na.ssl-images-amazon.com/images/I/41aT5jdUiNL._AC_SY450_.jpg"
     },
     {
         "name": "Diego",
         "price": 10,
-        "description": "Big Brain MF",
+        "anime": "Naruto Shippuden",
         "id":7,
         "source": "https://images-na.ssl-images-amazon.com/images/I/41aT5jdUiNL._AC_SY450_.jpg"
     },
     {
         "name": "Diego",
         "price": 10,
-        "description": "Big Brain MF",
+        "anime": "Naruto Shippuden",
         "id":8,
         "source": "https://images-na.ssl-images-amazon.com/images/I/41aT5jdUiNL._AC_SY450_.jpg"
     },
     {
         "name": "Diego",
         "price": 10,
-        "description": "Big Brain MF",
+        "anime": "Attack On Titan",
         "id":9,
         "source": "https://images-na.ssl-images-amazon.com/images/I/41aT5jdUiNL._AC_SY450_.jpg"
     },
     {
         "name": "Diego",
         "price": 10,
-        "description": "Big Brain MF",
+        "anime": "Attack On Titan",
         "id":10,
         "source": "https://images-na.ssl-images-amazon.com/images/I/41aT5jdUiNL._AC_SY450_.jpg"
     },
     {
         "name": "Diego",
         "price": 10,
-        "description": "Big Brain MF",
+        "anime": "Attack On Titan",
         "id":11,
         "source": "https://images-na.ssl-images-amazon.com/images/I/41aT5jdUiNL._AC_SY450_.jpg"
     },
     {
     "name": "Diego",
     "price": 10,
-    "description": "Big Brain MF",
+    "anime": "Attack On Titan",
     "id":12,
     "source": "https://images-na.ssl-images-amazon.com/images/I/41aT5jdUiNL._AC_SY450_.jpg"
 }
