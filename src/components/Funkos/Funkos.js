@@ -8,7 +8,6 @@ import ByAnime from '../Filter/ByAnime/ByAnime'
 
 
 const funkos = (props) => {
-    console.log(props.filter)
     let funkos = props.funko
     switch(props.filter){
         case '1':
