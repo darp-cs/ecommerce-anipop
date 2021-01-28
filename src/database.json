@@ -84,6 +84,32 @@
     "source": "https://images-na.ssl-images-amazon.com/images/I/41aT5jdUiNL._AC_SY450_.jpg"
 }
 
-]
+],
+
+"featured" : [
+
+    {
+    "name": "Natsu",
+    "price": 10,
+    "anime": "Fairy Tail",
+    "id":11,
+    "source": "https://images-na.ssl-images-amazon.com/images/I/41aT5jdUiNL._AC_SY450_.jpg"
+    },
+    {
+        "name": "Grey",
+        "price": 10,
+        "anime": "Fairy Tail",
+        "id":11,
+        "source": "https://images-na.ssl-images-amazon.com/images/I/41aT5jdUiNL._AC_SY450_.jpg"
+    },
+    {
+            "name": "Happy",
+            "price": 10,
+            "anime": "Fairy Tail",
+            "id":11,
+            "source": "https://images-na.ssl-images-amazon.com/images/I/41aT5jdUiNL._AC_SY450_.jpg"
+    }
+        ]
+
 
  }
