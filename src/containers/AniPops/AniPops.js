@@ -9,6 +9,8 @@ import Auxiliary from '../../hoc/Auxiliary/Auxiliary'
 
 class AniPops extends Component{
 
+        
+
     render (){
 
         return(
