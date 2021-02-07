@@ -1,12 +1,13 @@
 import React from 'react';
 import classes from './Slider.module.css'
+import Auxiliary from './../../hoc/Auxiliary/Auxiliary'
 
 const slider = (props) =>
 {
     const source = 'url('+props.featuredProduct.source+')'
     return (
     <div className = {classes.Slider}>
-        <button onClick = {props.back}></button>
+        <button className={classes.Back} onClick = {props.back}>&#8592;</button>
         <div className = {classes.Card}>
         <div style ={{content: source}} className = {classes.Image}></div>
         <ul className = {classes.Content}>
@@ -15,7 +16,7 @@ const slider = (props) =>
             <li className ={classes.Price}>${props.featuredProduct.price}</li>
         </ul>
     </div>
-        <button onClick = {props.forward}></button>
+        <button className={classes.Forward} onClick={props.forward}>&#8594;</button>
     </div>
     )
 }

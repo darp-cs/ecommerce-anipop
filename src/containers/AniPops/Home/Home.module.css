@@ -1,0 +1,20 @@
+.GridArea{
+    display: grid;
+    justify-content: center;
+}
+
+.Logo{
+    font-family: "HelveticaNeue-CondensedBold", "Helvetica Neue";
+    font-weight: 700;
+    font-size: 100px;
+}
+
+.HeroContainer{
+    background-image: url('https://wallpapercave.com/wp/wp4529053.jpg');
+    display:block;
+    border: 5px solid black;
+    margin: 0;
+}
+
+/* With grid-area ->   grid-area: 2 / 1 / span 2 / span 3;
+                        Start at row 2 column 1 span 2 row 3 col */

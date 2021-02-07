@@ -15,8 +15,6 @@ class Home extends Component{
 
 
     fowardHandler = () =>{
-        
-        
         if(this.state.currentImg <=1){
             let nextImg = this.state.currentImg + 1
             let nextProduct = this.state.featured[nextImg]
@@ -49,16 +47,22 @@ class Home extends Component{
 
         return (
 
-            <div>
-
-                
-                <Slider 
-                forward = {this.fowardHandler}
-                back = {this.backHandler}
-                featuredProduct = {this.state.currentProduct}
-                />
+                <Auxiliary>
+                <div className = {classes.HeroContainer}>
+                    <span className = {classes.Logo}>AniPops</span>
+                </div>
+                <div className= {classes.GridArea}>
+                <div className = {classes.SliderContainer}>
+                    <Slider 
+                    forward = {this.fowardHandler}
+                    back = {this.backHandler}
+                    featuredProduct = {this.state.currentProduct}
+                    />
+                </div>
 
             </div>  
+
+            </Auxiliary>
     )
     }
 }

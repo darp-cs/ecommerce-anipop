@@ -1,87 +1,87 @@
 {"merch" : [
     {
-        "name": "Natsu",
-        "price": 10,
+        "name": "Zen-Oh",
+        "price": 13,
         "anime": "Dragon Ball",
         "id":1,
-        "source": "https://images-na.ssl-images-amazon.com/images/I/41aT5jdUiNL._AC_SY450_.jpg"
+        "source": "https://cdn.shopify.com/s/files/1/0878/5254/products/889698294997-8_1080x.png?v=1600470800"
     },
     {
-        "name": "Goku with Kamehameha",
-        "price": 9,
+        "name": "Goku",
+        "price": 10,
         "anime": "Dragon Ball",
         "id":2,
-        "source": "https://cdn.shopify.com/s/files/1/0882/5118/products/FUNKO-Pop-Animation-Dragonball-Z-Super-Saiyan-Goku-2018003_1024x1024.jpeg?v=1436561311"
+        "source": "https://pisces.bbystatic.com/image2/BestBuy_US/images/products/6360/6360705_sd.jpg"
     },
     {
-        "name": "Frieza",
-        "price": 10,
+        "name": "Goten/Trunks",
+        "price": 30,
         "anime": "Dragon Ball",
         "id":3,
-        "source": "https://images-na.ssl-images-amazon.com/images/I/41aT5jdUiNL._AC_SY450_.jpg"
+        "source": "https://www.funko.com/craftmin/products/1436_3266_26670_AnimeDBZGotenTrunks_Fusion_POP2PK_GLAM_IE.png"
     },
     {
-        "name": "Diego",
-        "price": 10,
+        "name": "Perfect Cell",
+        "price": 15,
         "anime": "Dragon Ball",
         "id":4,
-        "source": "https://images-na.ssl-images-amazon.com/images/I/41aT5jdUiNL._AC_SY450_.jpg"
+        "source": "https://i5.walmartimages.com/asr/6655ceb1-cc58-4124-a0ac-3a66a1337671_1.6a70a0bd0eca68edfc3c646e794fe459.jpeg?odnWidth=612&odnHeight=612&odnBg=ffffff"
     },
     {
-        "name": "Diego",
+        "name": "Itachi",
         "price": 10,
         "anime": "Naruto Shippuden",
         "id":5,
-        "source": "https://images-na.ssl-images-amazon.com/images/I/41aT5jdUiNL._AC_SY450_.jpg"
+        "source": "https://i.ebayimg.com/images/g/TgIAAOSwk-pf6c5Q/s-l640.jpg"
     },
     {
-        "name": "Diego",
+        "name": "Sasuke (Curse Mark)",
         "price": 10,
         "anime": "Naruto Shippuden",
         "id":6,
-        "source": "https://images-na.ssl-images-amazon.com/images/I/41aT5jdUiNL._AC_SY450_.jpg"
+        "source": "https://cdn.shopify.com/s/files/1/1782/0745/products/500pxnaruto--sasuke-cursed-mark-funko-pop-vinyl-figure-popcultcha.1550452208_large.jpg?v=1550800242"
     },
     {
-        "name": "Diego",
+        "name": "Naruto (Six Path)",
         "price": 10,
         "anime": "Naruto Shippuden",
         "id":7,
-        "source": "https://images-na.ssl-images-amazon.com/images/I/41aT5jdUiNL._AC_SY450_.jpg"
+        "source": "https://cdn11.bigcommerce.com/s-do2jl3l9cs/images/stencil/728x728/products/4773/2149/143e871d-13fb-4ede-8f1a-05f7b7ac0743__94926.1603171129.jpg?c=1"
     },
     {
-        "name": "Diego",
+        "name": "Kakashi (Lightning Blade)",
         "price": 10,
         "anime": "Naruto Shippuden",
         "id":8,
-        "source": "https://images-na.ssl-images-amazon.com/images/I/41aT5jdUiNL._AC_SY450_.jpg"
+        "source": "https://images-na.ssl-images-amazon.com/images/I/71NST4h1wQL._AC_SL1500_.jpg"
     },
     {
-        "name": "Diego",
+        "name": "Sasha Braus",
         "price": 10,
         "anime": "Attack On Titan",
         "id":9,
-        "source": "https://images-na.ssl-images-amazon.com/images/I/41aT5jdUiNL._AC_SY450_.jpg"
+        "source": "https://i5.walmartimages.com/asr/7864ef81-5d03-4418-bb57-d344e5be369e_1.ac19a519c5467ed4e7341df14b09a6b1.jpeg"
     },
     {
-        "name": "Diego",
+        "name": "Beast Titan",
         "price": 10,
         "anime": "Attack On Titan",
         "id":10,
-        "source": "https://images-na.ssl-images-amazon.com/images/I/41aT5jdUiNL._AC_SY450_.jpg"
+        "source": "https://images-na.ssl-images-amazon.com/images/I/61ff6qvhH9L._AC_SL1000_.jpg"
     },
     {
-        "name": "Diego",
+        "name": "Mikasa Ackermann",
         "price": 10,
         "anime": "Attack On Titan",
         "id":11,
-        "source": "https://images-na.ssl-images-amazon.com/images/I/41aT5jdUiNL._AC_SY450_.jpg"
+        "source": "https://i5.walmartimages.com/asr/9473a1bd-8db4-4cde-b61d-36c2024afbb0_1.2521f2ef7845136be1aa53d6c769e377.jpeg"
     },
     {
-    "name": "Diego",
+    "name": "Eren (Titan Form)",
     "price": 10,
     "anime": "Attack On Titan",
     "id":12,
-    "source": "https://images-na.ssl-images-amazon.com/images/I/41aT5jdUiNL._AC_SY450_.jpg"
+    "source": "https://popandfigures.com/wp-content/uploads/2016/05/Attack_on_Titan__Eren_Jaeger_Rage_Vaulted-Funko-Pop.jpg"
 }
 
 ],
@@ -89,25 +89,25 @@
 "featured" : [
 
     {
-    "name": "Natsu",
+    "name": "Etherious Natsu Dragneel (E.N.D.)",
     "price": 10,
     "anime": "Fairy Tail",
     "id":11,
-    "source": "https://images-na.ssl-images-amazon.com/images/I/41aT5jdUiNL._AC_SY450_.jpg"
+    "source": "https://cdn.shopify.com/s/files/1/2404/3553/products/natsuexclusive.png?v=1606444398"
     },
     {
-        "name": "Grey",
+        "name": "Swim Time Happy",
         "price": 10,
         "anime": "Fairy Tail",
         "id":11,
-        "source": "https://images-na.ssl-images-amazon.com/images/I/41aT5jdUiNL._AC_SY450_.jpg"
+        "source": "https://i.pinimg.com/originals/3e/28/6f/3e286f361b0f7ccf0e009c90ef848956.jpg"
     },
     {
-            "name": "Happy",
+            "name": "Lucy",
             "price": 10,
             "anime": "Fairy Tail",
             "id":11,
-            "source": "https://images-na.ssl-images-amazon.com/images/I/41aT5jdUiNL._AC_SY450_.jpg"
+            "source": "https://s2.thcdn.com/productimg/960/960/11222251-1404352656663140.jpg"
     }
         ]
 

@@ -6,7 +6,7 @@ const navigationItems = () =>(
     <ul className = {classes.NavItems}>
         <NavigationItem link = '/' exact>Home</NavigationItem>
         <NavigationItem link = '/Products'exact>Products</NavigationItem>
-        <NavigationItem link = '/Checkout'exact>Checkout</NavigationItem>
+        {/* <NavigationItem link = '/Checkout'exact>Checkout</NavigationItem> */}
         <NavigationItem link = '/Contact' exact>Contact</NavigationItem>
     </ul>
 );

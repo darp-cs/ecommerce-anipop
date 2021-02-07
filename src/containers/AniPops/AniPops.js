@@ -17,7 +17,7 @@ class AniPops extends Component{
             <Auxiliary>
             <Route path ='/' exact component = {Home}/>
             <Route path ='/Products' exact component = {Products}/>
-            <Route path ='/Checkout' exact component = {Checkout}/>
+            {/* <Route path ='/Checkout' exact component = {Checkout}/> */}
             <Route path ='/Contact' exact component = {Contact}/>
             </Auxiliary>
         );

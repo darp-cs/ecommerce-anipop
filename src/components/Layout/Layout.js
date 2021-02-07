@@ -3,6 +3,7 @@ import Auxiliary from '../../hoc/Auxiliary/Auxiliary';
 import classes from './Layout.module.css';
 import Toolbar from '../Navigation/Toolbar/Toolbar'
 import SideDrawer from '../Navigation/SideDrawer/SideDrawer'
+import Footer from '../../components/Footer/Footer';
 
 
 
@@ -27,15 +28,17 @@ render(){
     return(
             <Auxiliary>
                 <Toolbar drawerToggleClicked ={this.sideDrawerToggleHandler}/>
-{/*                 
+                            
                 <SideDrawer 
                 closed = {this.sideDrawerClosedHandler} 
-                open = {this.state.showSideDrawer}/> */}
+                open = {this.state.showSideDrawer}/>
 
             
                 <main className = {classes.Content}>
                     {this.props.children}
                 </main>
+
+                <Footer/>
             </Auxiliary>
         )
     };
