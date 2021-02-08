@@ -1,6 +1,9 @@
+@media  (min-width: 500px) {
 .ProductsGrid{
     display:grid;
-    grid-template-columns: repeat(3, 1fr)
+    grid-template-columns: repeat(3, 1fr);
+    margin-top: 72px;
+    margin-bottom: 72px;
 }
 
 .Filter{
@@ -10,3 +13,19 @@
 .ItemSummary{
     font-size: 50px;
 }
+
+}
+
+
+/* .ProductsGrid{
+    margin-top: 72px;
+    margin-bottom: 72px;
+}
+
+.Filter{
+    font-size: 50px;
+}
+
+.ItemSummary{
+    font-size: 20px;
+} */

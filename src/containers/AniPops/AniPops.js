@@ -5,6 +5,7 @@ import Products from './Products/Products'
 import Checkout from './Checkout/Checkout'
 import Contact from './Contact/Contact'
 import Auxiliary from '../../hoc/Auxiliary/Auxiliary'
+import classes from './Anipops.module.css'
 
 
 class AniPops extends Component{

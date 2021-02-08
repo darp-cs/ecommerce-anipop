@@ -38,29 +38,40 @@ class Home extends Component{
         }
     }
 
+    componentDidMount() {
+        window.scrollTo(0, 0);
+    }
 
         
     
     
     render(){
-
+    
 
         return (
 
                 <Auxiliary>
-                <div className = {classes.HeroContainer}>
-                    <span className = {classes.Logo}>AniPops</span>
-                </div>
-                <div className= {classes.GridArea}>
-                <div className = {classes.SliderContainer}>
-                    <Slider 
-                    forward = {this.fowardHandler}
-                    back = {this.backHandler}
-                    featuredProduct = {this.state.currentProduct}
-                    />
-                </div>
 
-            </div>  
+                    <div className = {classes.HeroContainer}>
+                        <div className ={classes.Hero}>
+                            Content
+                        </div>
+                    </div>
+                    <div className = {classes.LogoContainer}>
+                        <span className = {classes.Logo}>AniPops</span>
+                    </div>
+                    <div className = {classes.Content}></div>
+                    <div className= {classes.GridArea}>
+                        <div className= {classes.LeftSide}></div>
+                        <div className = {classes.SliderContainer}>
+                            <Slider 
+                            forward = {this.fowardHandler}
+                            back = {this.backHandler}
+                            featuredProduct = {this.state.currentProduct}
+                            />
+                        </div>
+                        <div className= {classes.RightSide}></div>
+                    </div>  
 
             </Auxiliary>
     )

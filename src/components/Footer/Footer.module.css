@@ -1,0 +1,28 @@
+.FooterContainer{
+    display: grid;
+    justify-content: center;
+    background-color:black;
+    height: 20vh;
+}
+
+.List{
+    list-style-type: none;
+}
+
+.Insta{
+    margin-right: 10px;
+    margin-left: 10px;
+    display:inline;
+}
+
+.Twitter{
+    margin: 10px;
+    margin-left: 10px;
+    display:inline;
+}   
+
+.Copyright{
+    margin: 10px;
+    margin-left: 10px;
+    display:inline;
+}

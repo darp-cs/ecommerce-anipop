@@ -9,11 +9,44 @@
     font-size: 100px;
 }
 
-.HeroContainer{
-    background-image: url('https://wallpapercave.com/wp/wp4529053.jpg');
-    display:block;
-    border: 5px solid black;
+.LogoContainer{
     margin: 0;
+    display:grid;
+    justify-content: center;
+}
+
+.LeftSide{
+
+}
+
+.RightSide{
+
+}
+
+.HeroContainer{
+    width: 100%;
+    height: 100vh;
+}
+
+.Hero{
+    width: 100%;
+    height: 100%;
+    background-image: linear-gradient(to right, #5a5858c5, rgba(161, 154, 144, 0.185)), url('https://cdnb.artstation.com/p/assets/images/images/028/685/761/medium/jessica-alves-anime-funkostore-banner-shenron-x.jpg?1595215368');
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+}
+
+body, html{
+    margin: 0;
+    padding: 0;
+    height: 100vh;
+
+}
+
+.SliderContainer{
+    margin-top: 100px;
+    margin-bottom:100px;
 }
 
 /* With grid-area ->   grid-area: 2 / 1 / span 2 / span 3;

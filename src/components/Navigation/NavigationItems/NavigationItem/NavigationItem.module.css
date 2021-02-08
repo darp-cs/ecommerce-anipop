@@ -15,7 +15,7 @@
   .NavItem a:hover,
   .NavItem a:active
   .NavItem a.active {
-    color: blue;
+    color: white;
   }
   
   
@@ -39,7 +39,7 @@
     .NavItem a:active
     .NavItem a.active {
       background-color: grey;
-      border-bottom: 4px solid blue;
+      border-bottom: 4px solid white;
       color: white;
     }
   }
