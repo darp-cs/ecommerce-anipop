@@ -14,16 +14,27 @@
     margin-right: 10px;
     margin-left: 10px;
     display:inline;
+    color: white;
+    
+}
+
+a{
+    text-decoration: none;
+    color: white;
 }
 
 .Twitter{
     margin: 10px;
     margin-left: 10px;
     display:inline;
+    color: white;
+    text-decoration: none;
 }   
 
 .Copyright{
     margin: 10px;
     margin-left: 10px;
     display:inline;
+    color:white;
+    text-decoration: none;
 }
