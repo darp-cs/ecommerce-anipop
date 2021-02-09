@@ -1,4 +1,3 @@
-@media  (min-width: 500px) {
 .ProductsGrid{
     display:grid;
     grid-template-columns: repeat(3, 1fr);
@@ -14,18 +13,65 @@
     font-size: 50px;
 }
 
+
+.TitleContainer{
+    background-image: url('https://wallpapercave.com/wp/wp4529053.jpg'); 
+    margin-bottom: 25px;
+    width: 100%;
+    height: 100%;
+    background-image: linear-gradient(to right, #5a5858c5, rgba(161, 154, 144, 0.185)), url('https://cdnb.artstation.com/p/assets/images/images/028/685/761/medium/jessica-alves-anime-funkostore-banner-shenron-x.jpg?1595215368');
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+    justify-content: center;
+    padding-top: 60px;
+    
+
+}
+
+.Title{
+    /* font-family: "HelveticaNeue-CondensedBold", "Helvetica Neue"; */
+    font-weight: 700;
+    font-size: 100px;
+    text-shadow: 2px 2px rgba(161, 161, 161, .3);
 }
 
 
-/* .ProductsGrid{
-    margin-top: 72px;
-    margin-bottom: 72px;
-}
 
-.Filter{
-    font-size: 50px;
-}
+@media (max-width: 499px){
+    .ProductsGrid{
+        margin-top: 72px;
+        margin-bottom: 72px;
+        display: grid;
+        grid-template-columns: repeat(1, 1fr);
+    }
+    
+    .Filter{
+        font-size: 50px;
+        margin-left: 20%;
+    }
+    
+    .ItemSummary{
+        font-size: 20px;
+    } 
+    
+    /* 
+    .TitleContainer{
+        border: 5px solid black;
+        margin-bottom: 25px;
+        width: 100%;
+        height: 100%;
+        background-image: linear-gradient(to right, #5a5858c5, rgba(161, 154, 144, 0.185)), url('https://cdnb.artstation.com/p/assets/images/images/028/685/761/medium/jessica-alves-anime-funkostore-banner-shenron-x.jpg?1595215368');
+        background-size: cover;
+        background-repeat: no-repeat;
+        background-position: center;
+    }
+    
+    .Title{
+        font-family: "HelveticaNeue-CondensedBold", "Helvetica Neue";
+        font-weight: 700;
+        font-size: 50px;
+    } */
+    
+    }
 
-.ItemSummary{
-    font-size: 20px;
-} */

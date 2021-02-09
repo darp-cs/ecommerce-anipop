@@ -44,6 +44,9 @@ class Products extends Component{
 
         return(
             <Auxiliary>
+                 <div className = {classes.TitleContainer}>
+                    <div className = {classes.Title}>Catalog</div>
+                </div>
                 <div className = {classes.ProductsGrid}>
                     <Filter change ={this.filterHandler} className = {classes.Filter}/>
                     <Funkos filter = {this.state.filter} funko ={this.state.merch}/>
